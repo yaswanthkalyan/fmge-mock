@@ -1,2 +1,0 @@
-supabase: NaniBanti@1
-Groq:gsk_jibYQPhJhP3Ta36X3KXyWGdyb3FY4a0u5uTfLk0zOpm4FfTcvWZYc
