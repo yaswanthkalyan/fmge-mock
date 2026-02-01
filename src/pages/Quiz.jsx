@@ -18,35 +18,30 @@ export default function Quiz() {
   const [finished, setFinished] = useState(false);
   const [finalScore, setFinalScore] = useState(0);
 
-  // 🔥 SUBJECT GROUP MAPPING
-  const subjectMapping = {
-    Anatomy: ["Anatomy"],
-    Physiology: ["Physiology"],
-    Biochemistry: ["Biochemistry"],
+const subjectMapping = {
+  Anatomy: ["Anatomy"],
 
-    "Para-Clinical": ["Pathology", "Microbiology", "Pharmacology"],
+  MedicineAllied: [
+    "Medicine",
+    "Psychiatry",
+    "Dermatology",
+    "Radiology"
+  ],
 
-    "Forensic Medicine": ["Forensic Medicine"],
+  SurgeryAllied: [
+    "General Surgery",
+    "Orthopaedics",
+    "Anaesthesia"
+  ],
 
-    "General Medicine & Allied": [
-      "Medicine",
-      "Psychiatry",
-      "Dermatology",
-      "Radiology"
-    ],
+  PSM: ["PSM"],
+  OBG: ["OBG"],
+  Pediatrics: ["Pediatrics"],
+  ENT: ["ENT"],
+  Ophthalmology: ["Ophthalmology"]
+};
 
-    "General Surgery & Allied": [
-      "General Surgery",
-      "Ortho",
-      "Anaesthesia"
-    ],
 
-    Pediatrics: ["Pediatrics"],
-    "Obstetrics & Gynaecology": ["OBG"],
-    "Community Medicine": ["PSM"],
-    ENT: ["ENT"],
-    Ophthalmology: ["Ophthalmology"]
-  };
 
   // 🔥 FETCH QUESTIONS BASED ON SUBJECT GROUP
   useEffect(() => {

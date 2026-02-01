@@ -4,20 +4,14 @@ export default function Subjects() {
   const navigate = useNavigate();
 
   const subjects = [
-    "Anatomy",
-    "Physiology",
-    "Biochemistry",
-    "Pathology",
-    "Microbiology",
-    "Pharmacology",
-    "Forensic Medicine",
-    "Medicine & Allied (Psychiatry, Derm, Radio)",
-    "General Surgery & Allied (Anaesthesia, Ortho)",
-    "Community Medicine (PSM)",
-    "Obstetrics & Gynaecology (OBG)",
-    "Pediatrics",
-    "Ophthalmology",
-    "Otorhinolaryngology (ENT)"
+    { label: "Anatomy", value: "Anatomy" },
+    { label: "Medicine & Allied (Psychiatry, Derm, Radio)", value: "MedicineAllied" },
+    { label: "General Surgery & Allied (Anaesthesia, Ortho)", value: "SurgeryAllied" },
+    { label: "Community Medicine (PSM)", value: "PSM" },
+    { label: "Obstetrics & Gynaecology (OBG)", value: "OBG" },
+    { label: "Pediatrics", value: "Pediatrics" },
+    { label: "Ophthalmology", value: "Ophthalmology" },
+    { label: "Otorhinolaryngology (ENT)", value: "ENT" }
   ];
 
   return (
@@ -31,11 +25,11 @@ export default function Subjects() {
           <button
             key={index}
             onClick={() =>
-              navigate(`/quiz?subject=${encodeURIComponent(subject)}`)
+              navigate(`/quiz?subject=${subject.value}`)
             }
             className="bg-white dark:bg-gray-800 shadow p-4 rounded-lg hover:bg-blue-100 dark:hover:bg-gray-700 transition text-left"
           >
-            {subject}
+            {subject.label}
           </button>
         ))}
       </div>
