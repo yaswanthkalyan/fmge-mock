@@ -18,13 +18,51 @@ export default function Quiz() {
   const [finished, setFinished] = useState(false);
   const [finalScore, setFinalScore] = useState(0);
 
-  // 🔥 Fetch Subject Questions
+  // 🔥 SUBJECT GROUP MAPPING
+  const subjectMapping = {
+    Anatomy: ["Anatomy"],
+    Physiology: ["Physiology"],
+    Biochemistry: ["Biochemistry"],
+
+    "Para-Clinical": ["Pathology", "Microbiology", "Pharmacology"],
+
+    "Forensic Medicine": ["Forensic Medicine"],
+
+    "General Medicine & Allied": [
+      "Medicine",
+      "Psychiatry",
+      "Dermatology",
+      "Radiology"
+    ],
+
+    "General Surgery & Allied": [
+      "General Surgery",
+      "Ortho",
+      "Anaesthesia"
+    ],
+
+    Pediatrics: ["Pediatrics"],
+    "Obstetrics & Gynaecology": ["OBG"],
+    "Community Medicine": ["PSM"],
+    ENT: ["ENT"],
+    Ophthalmology: ["Ophthalmology"]
+  };
+
+  // 🔥 FETCH QUESTIONS BASED ON SUBJECT GROUP
   useEffect(() => {
     async function fetchSubjectQuestions() {
+
+      if (!subjectMapping[subject]) {
+        setQuestions([]);
+        return;
+      }
+
+      const mappedSubjects = subjectMapping[subject];
+
       const { data, error } = await supabase
         .from("questions")
         .select("*")
-        .ilike("subject", `%${subject}%`)
+        .in("subject", mappedSubjects)
         .limit(TOTAL_QUESTIONS);
 
       if (error) {
@@ -72,6 +110,7 @@ export default function Quiz() {
     setFinished(true);
   }
 
+  // 🔥 LOADING STATES
   if (!subject) {
     return <div className="p-10">Select a subject first.</div>;
   }
@@ -81,7 +120,7 @@ export default function Quiz() {
   }
 
   if (questions.length === 0) {
-    return <div className="p-10">No questions found.</div>;
+    return <div className="p-10">No questions found for {subject}.</div>;
   }
 
   if (finished) {
@@ -90,7 +129,7 @@ export default function Quiz() {
         <h2 className="text-2xl font-bold mb-4">
           {subject} Quiz Completed
         </h2>
-        <p>Final Score: {finalScore}</p>
+        <p className="mb-2">Final Score: {finalScore}</p>
         <p>
           Attempted: {Object.keys(responses).length} / {questions.length}
         </p>
@@ -117,7 +156,7 @@ export default function Quiz() {
 
       <div className="flex flex-1">
 
-        {/* LEFT SIDE */}
+        {/* LEFT SIDE QUESTION */}
         <div className="flex-1 p-8 bg-white dark:bg-gray-800 dark:text-white overflow-y-auto">
           <h3 className="text-lg font-medium mb-6">
             {currentQuestion.question}
