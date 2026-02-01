@@ -1,0 +1,116 @@
+id,subject,topic,difficulty,question,option_1,option_2,option_3,option_4,answer,explanation
+1,Anatomy,Upper Limb,1,Which of the following muscles is known as the 'Boxer's muscle'?,Pectoralis Major,Serratus Anterior,Latissimus Dorsi,Deltoid,Serratus Anterior,The Serratus Anterior protracts the scapula and is essential for punching.
+2,Anatomy,Upper Limb,2,Injury to the radial nerve in the spiral groove leads to which condition?,Claw Hand,Ape Thumb Deformity,Wrist Drop,Pointing Index,Wrist Drop,Radial nerve injury causes loss of wrist extensors.
+3,Anatomy,Upper Limb,3,Inability to initiate abduction of the arm indicates injury to which muscle?,Deltoid,Supraspinatus,Infraspinatus,Subscapularis,Supraspinatus,Supraspinatus initiates the first 15° of abduction.
+4,Anatomy,Thorax,1,The Angle of Louis lies at which vertebral level?,T2-T3,T4-T5,T6-T7,T8-T9,T4-T5,Sternal angle corresponds to T4–T5 disc.
+5,Anatomy,Thorax,4,Which is NOT a content of the posterior mediastinum?,Esophagus,Azygos vein,Vagus nerve,Phrenic nerve,Phrenic nerve,Phrenic nerve lies in middle mediastinum.
+6,Anatomy,Abdomen,2,Epiploic foramen is bounded anteriorly by:,IVC,Portal vein,Caudate lobe,First part of duodenum,Portal vein,Anterior boundary contains portal triad.
+7,Anatomy,Abdomen,3,Caput medusae occurs due to anastomosis between:,Left gastric & esophageal,Superior & inferior rectal,Paraumbilical & superficial epigastric,Splenic & renal,Paraumbilical & superficial epigastric,Portal–systemic anastomosis at umbilicus.
+8,Anatomy,Lower Limb,1,Longest vein in the human body is:,Femoral vein,Great saphenous vein,Popliteal vein,Small saphenous vein,Great saphenous vein,Runs from foot to groin.
+9,Anatomy,Lower Limb,4,Unhappy triad consists of:,"ACL,PCL,LCL","ACL,MCL,Medial meniscus","PCL,MCL,Lateral meniscus","ACL,LCL,Lateral meniscus","ACL,MCL,Medial meniscus",Classic knee injury triad.
+10,Anatomy,Head & Neck,2,Safety muscle of the tongue is:,Hyoglossus,Styloglossus,Genioglossus,Palatoglossus,Genioglossus,Prevents tongue from falling back.
+11,Anatomy,Head & Neck,3,Inability to close eye indicates injury to which nerve?,Trigeminal,Facial,Oculomotor,Glossopharyngeal,Facial,CN VII supplies facial expression muscles.
+12,Anatomy,Neuroanatomy,4,Blood-CSF barrier is formed by:,Astrocytes,Endothelial junctions,Choroid plexus epithelium,Arachnoid villi,Choroid plexus epithelium,Tight junctions form barrier.
+13,Anatomy,Embryology,2,Ligamentum arteriosum is remnant of:,Ductus venosus,Ductus arteriosus,Foramen ovale,Umbilical vein,Ductus arteriosus,Fetal shunt closure.
+14,Anatomy,Osteology,1,First carpometacarpal joint is:,Hinge,Pivot,Saddle,Ball & socket,Saddle,Allows opposition of thumb.
+15,Anatomy,Pelvis,3,Which structure lies in broad ligament?,Ureter,Ovarian artery,Round ligament,All of the above,All of the above,Broad ligament contents.
+16,Anatomy,Head & Neck,1,Dangerous layer of scalp is:,Skin,Connective tissue,Aponeurosis,Loose areolar tissue,Loose areolar tissue,Infection spreads via emissary veins.
+17,Anatomy,Head & Neck,2,Foramen rotundum transmits:,V1,V2,V3,VI,V2,Maxillary nerve.
+18,Anatomy,Head & Neck,3,Hoarseness after thyroid surgery indicates injury to:,Superior laryngeal,Internal laryngeal,Recurrent laryngeal,Glossopharyngeal,Recurrent laryngeal,Supplies vocal cords.
+19,Anatomy,Neuroanatomy,1,Adult spinal cord ends at:,L1-L2,L3-L4,S1-S2,T12-L1,L1-L2,Conus medullaris level.
+20,Anatomy,Neuroanatomy,4,Ipsilateral Horner + ataxia + contralateral pain loss is:,Weber,Benedikt,Wallenberg,Millard-Gubler,Wallenberg,Lateral medullary syndrome.
+21,Anatomy,Abdomen,2,Left renal vein passes between:,Celiac & SMA,SMA & Aorta,Aorta & IMA,SMA & IMA,SMA & Aorta,Nutcracker syndrome.
+22,Anatomy,Abdomen,3,Cystic artery lies in:,Petit triangle,Calot triangle,Hesselbach triangle,Femoral triangle,Calot triangle,Key landmark in cholecystectomy.
+23,Anatomy,Lower Limb,2,Sciatic nerve emerges below which muscle?,Obturator internus,Piriformis,Quadratus femoris,Gemellus,Piriformis,Key landmark.
+24,Anatomy,Lower Limb,3,Plantar flexion loss + sole anesthesia = injury to:,Common peroneal,Deep peroneal,Tibial,Sural,Tibial,Posterior compartment nerve.
+25,Anatomy,Embryology,4,Treacher Collins syndrome involves arch:,1st,2nd,3rd,4th,1st,Mandibular arch defect.
+26,Anatomy,Pelvis,1,Narrowest part of male urethra is:,Prostatic,Membranous,Bulbar,External meatus,External meatus,Most constricted.
+27,Anatomy,Head & Neck,2,Safety muscle nerve supply is:,IX,X,XII,V3,XII,Hypoglossal nerve.
+28,Anatomy,Thorax,2,Most posterior structure in lung hilum is:,Pulmonary artery,Pulmonary vein,Bronchus,Phrenic nerve,Bronchus,True for both lungs.
+29,Anatomy,Abdomen,3,Pouch of Douglas is also called:,Vesicouterine,Rectouterine,Retropubic,Pararectal,Rectouterine,Most dependent peritoneal space.
+30,Anatomy,Neuroanatomy,2,Edinger-Westphal nucleus is:,Motor,Parasympathetic,Sensory,Vestibular,Parasympathetic,Controls pupillary constriction.
+31,Anatomy,General Anatomy,1,Collagen in hyaline cartilage is:,Type I,Type II,Type III,Type IV,Type II,Cartilage collagen.
+32,Anatomy,Head & Neck,3,Bitemporal hemianopia due to lesion at:,Optic nerve,Optic chiasm,Optic tract,Occipital cortex,Optic chiasm,Pituitary compression.
+33,Anatomy,Abdomen,4,Ligament of Treitz marks junction of:,Stomach-duodenum,Duodenum-jejunum,Jejunum-ileum,Ileum-cecum,Duodenum-jejunum,GI bleed landmark.
+34,Anatomy,Lower Limb,1,Keystone of medial longitudinal arch is:,Calcaneum,Talus,Navicular,Cuneiform,Talus,Arch stability.
+35,Anatomy,Upper Limb,2,Guyon's canal transmits:,Median,Ulnar,Radial,AIN,Ulnar,Ulnar nerve + artery.
+36,Anatomy,Thorax,3,Safest site for pericardiocentesis:,Left 2nd ICS,Left 5th ICS parasternal,Subxiphoid,Right 4th ICS,Subxiphoid,Avoids lung & vessels.
+37,Anatomy,Head & Neck,4,External laryngeal nerve supplies:,Posterior cricoarytenoid,Cricothyroid,Thyroarytenoid,Lateral cricoarytenoid,Cricothyroid,Only exception muscle.
+38,Anatomy,Neuroanatomy,2,Internal capsule supplied by:,Lenticulostriate,ACA,Ethmoidal,SCA,Lenticulostriate,Arteries of stroke.
+39,Anatomy,Embryology,2,Thyroid develops from:,Thyroglossal duct,1st pouch,2nd pouch,Ultimobranchial,Thyroglossal duct,Foramen cecum origin.
+40,Anatomy,Abdomen,1,Ascending colon has how many teniae coli?,One,Two,Three,Four,Three,Characteristic feature.
+41,Anatomy,Head & Neck,3,Taste loss posterior 1/3 tongue = injury to:,VII,IX,X,V3,IX,Glossopharyngeal nerve.
+42,Anatomy,Neuroanatomy,4,Area postrema is in floor of:,Lateral ventricle,Third ventricle,Fourth ventricle,Aqueduct,Fourth ventricle,Vomiting center.
+43,Anatomy,Pelvis,2,Medial thigh sensation loss during pelvic surgery = injury to:,Femoral,Obturator,Genitofemoral,LFCN,Obturator,Adductor nerve.
+44,Anatomy,Thorax,1,Moderator band found in:,RA,RV,LA,LV,RV,Characteristic RV feature.
+45,Anatomy,Upper Limb,3,Snuffbox tenderness suggests fracture of:,Lunate,Hamate,Scaphoid,Pisiform,Scaphoid,Most common carpal fracture.
+46,Anatomy,Head & Neck,2,Pleomorphic adenoma commonly affects:,Submandibular,Sublingual,Parotid,Von Ebner,Parotid,Facial nerve passes through.
+47,Anatomy,Abdomen,4,Spleen develops from:,Ventral mesogastrium,Dorsal mesogastrium,Septum transversum,Midgut loop,Dorsal mesogastrium,Mesenchymal origin.
+48,Anatomy,Neuroanatomy,1,CNS myelin produced by:,Schwann,Oligodendrocytes,Astrocytes,Microglia,Oligodendrocytes,CNS glial cells.
+49,Anatomy,Lower Limb,2,Adductor canal contains all EXCEPT:,Femoral artery,Femoral vein,Saphenous nerve,Femoral nerve,Femoral nerve,Nerve does not enter canal.
+50,Anatomy,Embryology,3,Failure of pancreatic bud fusion causes:,Annular pancreas,Pancreas divisum,Ectopic pancreas,Biliary atresia,Pancreas divisum,Most common anomaly.
+51,Anatomy,Head & Neck,1,Which is a pneumatic bone?,Parietal,Occipital,Maxilla,Mandible,Maxilla,Contains maxillary sinus.
+52,Anatomy,Neuroanatomy,2,Circle of Willis surrounds:,Optic chiasm,Pituitary,Interpeduncular fossa,Midbrain,Interpeduncular fossa,Arterial circle location.
+53,Anatomy,Abdomen,3,Main artery of midgut is:,Celiac,SMA,IMA,Renal,SMA,Midgut supply.
+54,Anatomy,Lower Limb,4,Tendo Achillis formed by:,Gastrocnemius + Plantaris,Gastrocnemius + Soleus,Soleus + Tibialis posterior,Plantaris + Soleus,Gastrocnemius + Soleus,Triceps surae.
+55,Anatomy,Pelvis,2,Posterior division branch of internal iliac artery is:,Obturator,Internal pudendal,Iliolumbar,Uterine,Iliolumbar,Posterior division branch.
+56,Anatomy,Thorax,2,Chest tube insertion site for pneumothorax:,2nd ICS MCL,5th ICS MAL,7th ICS PAL,9th ICS MAL,5th ICS MAL,Safe triangle.
+57,Anatomy,Head & Neck,4,Muscle that tenses vocal cords:,Posterior cricoarytenoid,Cricothyroid,Thyroarytenoid,Vocalis,Cricothyroid,Raises pitch.
+58,Anatomy,Neuroanatomy,3,Anterior spinal artery supplies:,Posterior 1/3,Anterior 2/3,Gray matter only,White matter only,Anterior 2/3,Motor tracts.
+59,Anatomy,General Anatomy,1,Unipennate muscle is:,Deltoid,Rectus femoris,Flexor pollicis longus,Tibialis anterior,Flexor pollicis longus,Muscle architecture.
+60,Anatomy,Abdomen,2,Common bile duct formed by:,R+L hepatic,Cystic + common hepatic,Cystic + pancreatic,Common hepatic + pancreatic,Cystic + common hepatic,CBD formation.
+61,Anatomy,Upper Limb,1,Laborer's nerve is:,Radial,Median,Ulnar,Axillary,Median,Power grip nerve.
+62,Anatomy,Head & Neck,3,Loss of eye abduction due to compression of:,III,IV,VI,V1,VI,Abducens nerve.
+63,Anatomy,Neuroanatomy,4,Stria terminalis connects:,Hypothalamus & amygdala,Hippocampus & mammillary,Thalamus & striatum,Amygdala & mammillary,Hypothalamus & amygdala,Limbic pathway.
+64,Anatomy,Embryology,2,Meckel diverticulum is remnant of:,Urachus,Vitelline duct,Allantois,Umbilical artery,Vitelline duct,Rule of 2s.
+65,Anatomy,Abdomen,3,Secondarily retroperitoneal organ is:,Kidney,Aorta,Pancreas (except tail),Spleen,Pancreas (except tail),Peritoneal rotation.
+66,Anatomy,Upper Limb,3,"A patient presents with 'Claw Hand' deformity. On examination, they have loss of sensation on the medial 1 and a half fingers. Which nerve is likely involved?",Median nerve,Ulnar nerve,Radial nerve,Musculocutaneous nerve,Ulnar nerve,The ulnar nerve supplies intrinsic hand muscles (except LOAF). Injury causes claw hand and sensory loss over medial 1.5 fingers.
+67,Anatomy,Thorax,2,The 'Left Main Bronchus' is different from the Right because it is:,Shorter and wider,Longer and more horizontal,Vertical and wider,Shorter and more vertical,Longer and more horizontal,"The right main bronchus is shorter, wider, and more vertical."
+68,Anatomy,Abdomen,1,The 'McBurney's Point' is located at the junction of:,Medial 1/3 and Lateral 2/3 of spinoumblical line,Medial 2/3 and Lateral 1/3 of spinoumblical line,Medial 1/2 and Lateral 1/2 of spinoumblical line,Upper 1/3 and Lower 2/3 of spinoumblical line,Medial 2/3 and Lateral 1/3 of spinoumblical line,McBurney's point lies one-third from ASIS to umbilicus.
+69,Anatomy,Pelvis,4,"During a prostatic biopsy, the needle passes into the Peripheral Zone. Why is this zone clinically significant?",Site of BPH,Most common site for Prostatic Carcinoma,Contains pre-prostatic sphincter,Smallest zone,Most common site for Prostatic Carcinoma,70–80% of prostate cancers arise in the Peripheral Zone.
+70,Anatomy,Head & Neck,2,Which muscle is responsible for protrusion of the mandible?,Masseter,Temporalis,Lateral Pterygoid,Medial Pterygoid,Lateral Pterygoid,The lateral pterygoid protrudes and depresses the mandible.
+71,Anatomy,Neuroanatomy,3,Left homonymous hemianopia with macular sparing indicates a lesion in the:,Right Optic Tract,Right Occipital Cortex,Optic Chiasm,Left Optic Nerve,Right Occipital Cortex,Occipital cortex lesions cause contralateral hemianopia with macular sparing.
+72,Anatomy,Lower Limb,2,A positive Trendelenburg sign is due to paralysis of which muscle?,Gluteus Maximus,Gluteus Medius,Piriformis,Sartorius,Gluteus Medius,Gluteus medius/minimus stabilize the pelvis during gait.
+73,Anatomy,Embryology,1,The Thymus is derived from which pharyngeal pouch?,1st Pouch,2nd Pouch,3rd Pouch,4th Pouch,3rd Pouch,The 3rd pouch forms the thymus and inferior parathyroids.
+74,Anatomy,Osteology,2,Which of the following is a sesamoid bone?,Scapula,Patella,Sternum,Clavicle,Patella,The patella develops within the quadriceps tendon.
+75,Anatomy,Thorax,3,"When the Right Coronary Artery gives off the PDA, it is called:",Left dominance,Right dominance,Codominance,Coronary bypass,Right dominance,Coronary dominance depends on origin of the PDA.
+76,Anatomy,Head & Neck,4,Which nerve supplies sensation to the skin over the angle of the mandible?,Mandibular nerve (V3),Great Auricular nerve,Transverse Cervical nerve,Facial nerve,Great Auricular nerve,Supplied by C2–C3 via the great auricular nerve.
+77,Anatomy,Abdomen,2,What forms the posterior boundary of the rectus sheath below the arcuate line?,Transversalis fascia,Aponeurosis of Transversus abdominis,Aponeurosis of Internal Oblique,Rectus abdominis muscle,Transversalis fascia,"Below the arcuate line, only transversalis fascia lies posteriorly."
+78,Anatomy,Upper Limb,1,Main nerve of the anterior compartment of the arm is:,Median nerve,Ulnar nerve,Musculocutaneous nerve,Radial nerve,Musculocutaneous nerve,"Supplies biceps, brachialis, coracobrachialis."
+79,Anatomy,Head & Neck,2,Which artery does NOT contribute to Kiesselbach's plexus?,Anterior Ethmoidal artery,Sphenopalatine artery,Greater Palatine artery,Posterior Ethmoidal artery,Posterior Ethmoidal artery,Kiesselbach's plexus includes anterior ethmoidal but not posterior ethmoidal.
+80,Anatomy,Neuroanatomy,4,The striatum is composed of:,Caudate and Putamen,Putamen and Globus Pallidus,Caudate and Thalamus,Putamen and Subthalamic Nucleus,Caudate and Putamen,Striatum = caudate nucleus + putamen.
+81,Anatomy,Lower Limb,3,Foot drop with dorsum foot sensory loss due to compression at fibular neck involves which nerve?,Tibial nerve,Common Peroneal nerve,Deep Peroneal nerve,Superficial Peroneal nerve,Common Peroneal nerve,The common peroneal nerve winds around the fibular neck.
+82,Anatomy,Abdomen,2,The tail of the pancreas lies within which ligament?,Gastrosplenic ligament,Lienorenal ligament,Falciform ligament,Round ligament,Lienorenal ligament,Tail of pancreas and splenic vessels lie in lienorenal ligament.
+83,Anatomy,Pelvis,1,"In males, the ureter is crossed superiorly by which structure?",Ureteric artery,Vas Deferens,Internal Iliac artery,Seminal vesicle,Vas Deferens,Vas deferens crosses over the ureter in males.
+84,Anatomy,General Anatomy,2,Which joint is multi-axial?,Hinge joint,Pivot joint,Saddle joint,Ball and Socket joint,Ball and Socket joint,Ball-and-socket joints allow movement in multiple planes.
+85,Anatomy,Thorax,4,Which structure passes through the vena caval opening (T8)?,Esophagus,Aorta,Right Phrenic Nerve,Left Phrenic Nerve,Right Phrenic Nerve,IVC and right phrenic nerve pass through T8.
+86,Anatomy,Head & Neck,3,A lesion at the jugular foramen compresses which nerves?,"VII, VIII, IX","IX, X, XI","X, XI, XII","V, VI, VII","IX, X, XI","CN IX, X, and XI exit via the jugular foramen."
+87,Anatomy,Upper Limb,2,Chief extensor of the elbow joint is:,Biceps Brachii,Brachialis,Triceps Brachii,Anconeus,Triceps Brachii,Triceps brachii is the primary elbow extensor.
+88,Anatomy,Abdomen,3,The Middle Suprarenal artery is a direct branch of the:,Inferior Phrenic artery,Abdominal Aorta,Renal artery,Celiac trunk,Abdominal Aorta,Middle suprarenal artery arises directly from the aorta.
+89,Anatomy,Neuroanatomy,1,CSF is primarily produced by the:,Arachnoid granulations,Choroid plexus,Cerebral aqueduct,Subarachnoid space,Choroid plexus,Choroid plexus produces CSF in the ventricles.
+90,Anatomy,Embryology,4,The renal segment of the IVC is derived from which fetal vein?,Supracardinal vein,Subcardinal vein,Vitelline vein,Sacrocardinal vein,Subcardinal vein,Subcardinal veins form the renal segment of the IVC.
+91,Anatomy,Pelvis,2,The pudendal nerve arises from which spinal segments?,L2-L4,S1-S3,S2-S4,L4-S1,S2-S4,Pudendal nerve originates from S2–S4.
+92,Anatomy,Lower Limb,1,Which two nerves supply the Adductor Magnus muscle?,Obturator and Femoral,Obturator and Tibial part of Sciatic,Femoral and Tibial,Obturator and Common Peroneal,Obturator and Tibial part of Sciatic,Adductor part: obturator; hamstring part: tibial nerve.
+93,Anatomy,Head & Neck,3,Which muscle dilates the pupil?,Sphincter pupillae,Dilator pupillae,Ciliary muscle,Superior Tarsal muscle,Dilator pupillae,Dilator pupillae is sympathetically innervated.
+94,Anatomy,Thorax,2,The azygos vein is located in the:,Anterior Mediastinum,Middle Mediastinum,Posterior Mediastinum,Superior Mediastinum,Posterior Mediastinum,Azygos vein is a posterior mediastinal structure.
+95,Anatomy,Abdomen,1,Which organ lies in the left hypochondrium?,Liver,Gallbladder,Spleen,Appendix,Spleen,The spleen lies in the left hypochondriac region.
+96,Anatomy,Neuroanatomy,4,Damage to the subthalamic nucleus causes:,Parkinsonism,Hemiballismus,Chorea,Athetosis,Hemiballismus,Lesions cause violent flinging movements.
+97,Anatomy,Upper Limb,3,A lesion of the long thoracic nerve causes:,Wrist Drop,Winging of Scapula,Ape Thumb,Claw Hand,Winging of Scapula,Long thoracic nerve injury paralyzes serratus anterior.
+98,Anatomy,Head & Neck,2,The cricoid cartilage lies at which vertebral level?,C4,C5,C6,C7,C6,C6 marks the transition from pharynx to esophagus.
+99,Anatomy,Embryology,3,The urachus is a remnant of which fetal structure?,Allantois,Yolk sac,Umbilical artery,Ductus venosus,Allantois,Urachus is the fibrous remnant of the allantois.
+100,Anatomy,Osteology,1,Which bone is the first to ossify in the human body?,Femur,Clavicle,Mandible,Talus,Clavicle,Clavicle ossifies first via intramembranous ossification.
+101,Anatomy,Head & Neck,4,Which nerve passes between the superior and middle constrictors of the pharynx?,Vagus nerve,Glossopharyngeal nerve,Superior Laryngeal nerve,Recurrent Laryngeal nerve,Glossopharyngeal nerve,CN IX passes between the superior and middle constrictors.
+102,Anatomy,Abdomen,2,The portal vein is formed by union of:,Splenic and Inferior Mesenteric veins,Splenic and Superior Mesenteric veins,Superior and Inferior Mesenteric veins,Hepatic and Splenic veins,Splenic and Superior Mesenteric veins,SMV + splenic vein form the portal vein.
+103,Anatomy,Lower Limb,3,AVN of femoral head after intracapsular fracture occurs due to damage to:,Obturator artery,Medial Circumflex Femoral artery,Lateral Circumflex Femoral artery,Profunda Femoris artery,Medial Circumflex Femoral artery,This artery supplies the femoral head via retinacular branches.
+104,Anatomy,Thorax,1,The apex beat of the heart is felt at:,4th ICS left midaxillary line,5th ICS left midclavicular line,Left 2nd ICS near sternum,Xiphoid process,5th ICS left midclavicular line,Normal position of apex beat.
+105,Anatomy,Pelvis,3,Structure felt immediately anterior to the anterior vaginal wall is:,Rectum,Urinary Bladder,Uterus,Ovaries,Urinary Bladder,Bladder lies anterior to the vagina.
+106,Anatomy,Head & Neck,2,The internal carotid artery gives no branches in the:,Neck,Carotid Canal,Cavernous Sinus,Cranial Cavity,Neck,ICA has no branches in its cervical part.
+107,Anatomy,Neuroanatomy,4,The amygdala is located in which brain lobe?,Frontal,Parietal,Temporal,Occipital,Temporal,Amygdala lies in the medial temporal lobe.
+108,Anatomy,Upper Limb,1,Which nerve is injured in fracture of the surgical neck of the humerus?,Radial nerve,Axillary nerve,Median nerve,Ulnar nerve,Axillary nerve,Axillary nerve winds around the surgical neck.
+109,Anatomy,Abdomen,2,Which is NOT a direct branch of the celiac trunk?,Left Gastric artery,Splenic artery,Common Hepatic artery,Right Gastric artery,Right Gastric artery,Right gastric artery usually branches from common hepatic.
+110,Anatomy,Head & Neck,3,"Anisocoria, ptosis, and anhidrosis indicate:",Bell's Palsy,Horner's Syndrome,Erb's Palsy,Klumpke's Palsy,Horner's Syndrome,Classic triad of sympathetic disruption.
+111,Anatomy,General Anatomy,4,Which neuron is pseudo-unipolar?,Retinal bipolar cell,Olfactory receptor,Dorsal root ganglion cell,Purkinje cell,Dorsal root ganglion cell,DRG neurons are pseudo-unipolar.
+112,Anatomy,Pelvis,2,The lateral wall of the ischioanal fossa is formed by:,Obturator Internus and its fascia,Levator Ani,External Anal Sphincter,Gluteus Maximus,Obturator Internus and its fascia,Lateral wall contains obturator internus muscle.
+113,Anatomy,Neuroanatomy,3,Broca's area corresponds to which Brodmann areas?,"17,18","41,42","44,45","1,2,3","44,45",Motor speech area in dominant frontal lobe.
+114,Anatomy,Thorax,1,How many bronchopulmonary segments are in the left lung?,8,10,12,5,10,Left lung usually has 10 segments.
+115,Anatomy,Head & Neck,2,The ansa cervicalis supplies which muscles?,Sternocleidomastoid,Trapezius,Infrahyoid muscles,Digastric,Infrahyoid muscles,"Supplies sternohyoid, sternothyroid, omohyoid."
